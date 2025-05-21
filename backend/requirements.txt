@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+pillow
+pytesseract
+PyMuPDF
+scikit-learn
+pandas
+joblib
